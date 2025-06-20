@@ -112,5 +112,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 MIT License
 
 ## Authors
-- [Your Name](https://github.com/taseebali)
+- [Taseeb Ali](https://github.com/taseebali)
 
